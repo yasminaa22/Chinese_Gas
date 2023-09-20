@@ -1,0 +1,479 @@
+ICS 75.060
+E 24
+GB
+中华人民共和国国家标准
+GB/T 19204-2020
+代替 GB／T 19204-2003 液化天然气的一般特性
+General characteristics of liquefied natural gas
+(ISO 16903:2015,Petroleum and natural gas industries-Characteristics
+of LNG,influencing the design,and material selection,MOD) 2020—06—02 发布
+2020—12—01实施国
+监督 管 理 总员
+局 国
+化 管
+会
+发布 理委
+场准 市标 家家 
+
+
+
+
+GB/T 19204-2020
+目
+次
+前言
+I
+1 范围
+1
+2 规范性引用文件
+1
+3 术语和定义
+1
+4 缩略语··
+2
+5
+LNG的一般特性
+2
+5.1 概述
+2
+5.2 一般特性
+2
+5.3 物理性质
+4
+9
+6篇外的·················································
+6.1 概述·
+6
+6.2 置身于低温环境
+6
+6.3 置身于天然气环境中
+7
+6.4 火灾预防和消防
+·····.
+7
+6.5 颜色
+7
+6.6 气味
+7
+7 建造材料··
+·····8
+7.1 LNG工业中应用的材料·
+8
+7.2 温度应力
+9
+参考文献
+10
+
+
+
+GB/T 19204-2020
+前
+言 本标准按照GB／T1.1—2009给出的规则起草。
+本标准代替GB／T 19204—2003（液化天然气的一般特性》，与GB／T19204—2003相比，除编辑性修改外主要技术变化如下：
+—修改了规范性引用文件（见第2章，2003年版的第2章）；
+—增加了蒸发气、液化石油气、翻滚、沸腾液体膨胀蒸气爆炸等术语和定义（见第3章，2003年版的第3章）；
+—增加了LPG、QRA等缩略语（见第4章，2003年版的第4章）；
+—删除了LNG的甲烷、氮气含量范围（见5.2.1，2003年版的5.2.1）；
+—修改了LNG的密度范围和密度温度梯度值（见5.2.2，2003年版的5.2.2）；—增加了LNG的黏度特性（见5.2.4）；
+—增加了LNG实例的蒸气热值及该条文的注（见表1）；
+—修改了表1中LNG实例1组分（见表1，2003年版的表1）；—增加了表1中3个国内LNG实例组分（见表1）；
+—修改了气体云团的膨胀和扩散相关内容（见5.3.4，2003年版的5.4.2）；
+—增加了关于火灾的预防和保护应遵循的标准及LNG火灾灭火器的类型（见6.4）；—增加了关于蒸发气颜色的内容（见6.5）；
+—修改了用于直接接触LNG的主要材料列表（见表3，2003年版的表3）；—修改了用于不直接接触LNG的主要材料列表（见表4，2003年版的表4）；—修改了用于LNG工业的其他材料（见7.1.4，2003年版的6.1.3）；
+—修改了温度应力有关内容（见7.2，2003年版的6.2）；
+—删除了附录A和附录B（见2003年版的附录A和附录B）。
+本标准使用重新起草法修改采用ISO 16903：2015《石油和天然气工业 影响设计和材料选择的液化天然气一般特性》。
+本标准与ISO 16903：2015的技术性差异及其原因如下：
+—关于规范性引用文件，本标准做了具有技术性差异的调整，以适应我国的技术条件，调整的情
+况集中反映在第2章“规范性引用文件”中，具体调整如下：
+·用GB／T 20368代替了NFPA 59A（见第2章、6.4）；
+·用GB／T 22724代替了EN1473（见第2章、6.4）；
+·增加引用了GB／T8423.3—2018（见第3章）；
+·增加引用了GB／T24959（见第5章）；
+·增加引用了GB／T24962（见第5章）；
+·增加引用了GB／T 50183—2015（见第3章）；
+·增加引用了ISO 6568（见第5章）；
+·增加引用了GB／T27894.1（见第5章）。
+—用引用国家标准中的术语和定义代替ISO 16903：2015中的术语和定义；删除了凝析液、天然
+气凝液术语（见第3章），以适应我国的技术条件，并和国家标准体系一致。
+—LNG密度的计算方法采用GB／T 24962代替 ISO6578（见第5章），以适应我国的技术条件，
+并和国家标准体系一致。
+日 
+
+GB/T 19204-2020
+—修改了LNG的黏度范围为1.0x10·Pa·s～2.0x10—Pa·s（见5.2.4），以适应我国的技术条件。
+本标准做了下列编辑性修改：
+—标准名称修改为《液化天然气的一般特性》。
+请注意本文件的某些内容可能涉及专利。本文件的发布机构不承担识别这些专利的责任。本标准由全国石油天然气标准化技术委员会（SAC／TC 355）提出并归口。
+本标准起草单位：中海油研究总院有限责任公司、中海石油气电集团有限责任公司、中国石油股份有限公司天然气销售分公司、中国石油化工股份有限公司天然气分公司、中国石油西南油气田分公司天然气研究院。
+本标准主要起草人：刘向东、郝蕴、刘云、毕晓星、陈峰、黄喆、陈锐莹、蒲宏斌、孙齐、罗勤、张立敏、衣华磊、杨天宇、周伟、静玉晓、郭欣、崔月红、杨泽军、张倩、胡冬、刘人玮、马晨波、郑海敏。
+本标准所代替标准的历次版本发布情况为：-GB/T 19204-2003。
+N 
+
+GB/T 19204-2020
+液化天然气的一般特性1 范围
+本标准给出了液化天然气的一般特性、健康与安全、建造材料。
+本标准可做液化天然气领域其他标准的参考，也可供设计和操作液化天然气设施的人员参考。2 规范性引用文件
+下列文件对于本文件的应用是必不可少的。凡是注日期的引用文件，仅注日期的版本适用于本文件。凡是不注日期的引用文件，其最新版本（包括所有的修改单）适用于本文件。
+GB／T 8423.3—2018 石油天然气工业术语 第3部分：油气地面工程GB／T 20368 液化天然气（LNG）生产、储存和装运
+GB／T 22724 液化天然气设备与安装 陆上装置设计
+GB／T 24959 冷冻轻烃流体 液化天然气运输船货舱内温度测量系统一般要求（GB／T 24959—2019,ISO 8310:2012,MOD)
+GB／T 24962 冷冻烃类流体 静态测量 计算方法（GB／T 24962—2010，ISO 6578：1991，MOD）GB／T 27894.1 天然气 在一定不确定度下用气相色谱法测定组成 第1部分：分析导则(GB/T 27894.1-2011,ISO 6974-1:2000,IDT)
+GB 50183—2015 石油天然气工程设计防火规范
+ISO 6568 天然气 气相色谱法简易分析（Natural gas-Simple analysis by gas chromatography） 3 术语和定义
+GB／T 8423.3—2018和GB 50183—2015界定的术语和定义适用于本文件。为了便于使用，以下重复列出了GB／T8423.3—2018和GB 50183—2015中的某些术语和定义。
+3.1
+液化天然气 liquefied natural gas；LNG
+主要由甲烷组成，可能含有少量的乙烷、丙烷、丁烷、氮或通常存在于天然气中的其他组分的一种无色低温液态流体。
+［GB／T 8423.3-2018，定义2.1.14］ 3.2
+蒸发气 boil-off gas；BOG
+由于外界的热量引入以及在容器进出料过程中压力变化时的闪蒸等原因，引起液化天然气（3.1）气化产生的气体。
+［GB／T 8423.3-2018，定义5.2.4］ 3.3
+液化石油气 liquefied petroleum gas；LPG
+常温常压下为气态，经压缩或冷却后为液态的丙烷、丁烷及其混合物。［GB／T 50183-2015，定义2.1.4］
+1 
+
+GB/T 19204-2020
+3.4
+翻滚 roll-over
+容器（通常为储罐）中不同深度的液化天然气因温度和（或）密度的差异而产生传热、传质，致使分层的液体发生快速的混合并伴随大量蒸发气从液化天然气容器中急剧释放的现象。
+［GB／T 8423.3-2018，定义5.2.7］ 3.5
+沸腾液体膨胀蒸气爆炸 boiling liquid expanding vapour explosion：BLEVE
+处于一定压力下饱和温度附近的液化天然气，因压力系统突然失效而导致该液体急剧气化并释放，产生爆炸特征的现象。
+［GB／T 8423.3-2018，定义5.1.6］ 4 缩略语
+下列缩略语适用于本文件。
+BLEVE 沸腾液体膨胀蒸气爆炸（boiling liquid expanding vapour explosion） LNG 液化天然气（liquefied natural gas）
+LPG 液化石油气（liquefied petroleum gas） QRA 定量风险分析（quantitative risk analysis） RPT 快速相变（rapid phase transition）
+SEP 表面辐射功率（surface emissive power） 5 LNG的一般特性
+5.1 概述
+与LNG储运有关的人员，应熟悉该液态的特性及其产生气体的特性。在LNG储运过程中潜在的危险主要起源于其3个重要性质。
+a）LNG的温度极低。在标准大气压下其沸点约为—160℃（还与其组分有关）。在此温度下，其
+蒸发气的密度高于周围空气的密度。
+b）极少量的LNG液体可以转变为很大体积的气体。1单位体积的LNG可以转变为约600单位体积的气体。
+c）与其他气态烃类类似，天然气具有易燃性。在大气环境下，与空气的混合物的可燃烧范围约为
+天然气体积分数的5％～15％。若蒸发气在密闭空间内聚积，遇点火源将导致爆炸和高压冲击波。
+本标准关注LNG的特性以及相应的危险性。当评估LNG场站的危险性时，设计人员需考虑现场存在的所有系统。通常LNG本身不会带来最高危险性，而其他系统，如液化厂的LPG制冷剂，或再气化站输出的高压天然气，是整个场站的主要风险。
+5.2 一般特性 5.2.1 组成
+LNG是以甲烷为主要成分的烃类混合物，其中含有少量的、通常存在于天然气中的乙烷、丙烷、丁烷、氮等其他组分。甲烷及天然气其他组分的物理学和热力学性质可以在有关的参考资料（参见参考文献）和热力学计算手册中查到。虽然LNG的主要成分是甲烷，但是不宜以纯甲烷去推断LNG的性质。2
+
+
+
+GB/T 19204-2020
+分析LNG的成分时，应特别注意的是要采集有代表性的样品，避免因闪蒸产生伪分析结果。最常用的分析方法是采用专门的LNG取样装置，采集未经闪蒸的液体，作为有代表性的样品，进而分析一小股连续蒸发产物。另一种方法是在主要产品气化器出口处取样，该样品可用常规的气相色谱法分析，推荐使用ISO 6568或GB／T27894.1中所述的方法。
+5.2.2 密度
+LING E的解出础年·的420百g日～470 百g日神痛T巴神济520Bg／日”
+密度还是液体温度的函数，其变化梯度约为1.4kg／（㎡·K—），密度可以直接测量，但通常是利用气相色谱法分析得到的组分计算求得。推荐使用GB／T24962中规定的计算方法。
+注：该方法通常称为Klosek Mckinley 修正法. 5.2.3 温度
+LNG的沸点取决于其组分，在大气压力下通常在—166℃～—157℃。沸点随压力的变化约为1.25x10-*℃/Pa。
+LNG的温度通常用铜／铜镍热电偶或GB／T 24959中规定的铂电阻温度计测量。5.2.4 黏度
+LNG的黏度取决于其组分，在—160℃下黏度范围通常在1.0x10—Pa·s～2.0x10Pa·s，大约为水的黏度的1／10～1／5。黏度也是液体温度的函数。
+5.2.5 LNG 实例
+表1给出了LNG的6个实例，以说明不同组成的LNG性质的差异。
+表1 LNG实例
+常压下在沸点温度时的性质
+LNG例1
+LNG例2
+LNG例3
+LNG例3
+LNG例4
+LNG例5 N:
+0.13
+0.12
+1.79
+0.11
+0.36
+0.11 CH
+99.80
+99.84
+93.90
+90.31
+87.20
+84.71 C:H:
+0.07
+0.04
+3.26
+5.35
+8.61
+12.33 摩尔分数／％
+C.H
+一
+0.69
+3.21
+2.74
+2.64 -
+- -
+iC.H
+0.12
+0.59
+0.42
+0.11 一
+-
+0.15
+0.40
+0.65
+0.10 H
+一
+0.03
+0.02
+- -
+摩尔质量／（kg／kmol）
+H'
+16.07
+D.09
+17.07 16.06
+18.14
+18.52
+18.61 沸点温度／℃
+-162.0
+-161.9
+-166.5
+-160.9
+-161.5
+-160.2 密度／（kg／㎡）
+424.7
+424.5
+452.4
+462.2
+470.7
+471.1 单位体积液体气化后产生的气体体积
+590.7
+590.6
+568.9
+567.3
+649.9 592
+（0℃和101 325 Pa）／（㎡／㎡）
+单位质量液体气化后产生的气体体积
+1 391
+1 391
+1809
+1 231
+1205
+1 199 C0℃和101 325 Pa）／（m／10kg）
+单位质量气化潜热／（kJ／kg）
+525.6
+522.5
+679.5
+673.0
+675.5
+564.9 单位体积高热值／（MJ／㎡）
+37.75
+37.75
+38.76
+41.96
+42.59
+42.94 注：以上特性数据是基于实测组分数据的模拟数据.
+
+
+
+GB/T 19204-2020
+5.3 物理性质
+5.3.1 蒸发气的物理性质
+LNG作为一种可沸腾液体储存于大型绝热储罐中。任何传入储罐的热量都会导致部分液体蒸发为气体，这部分气体称为蒸发气。蒸发气的组分取决于液体的组分。比如，某蒸发气可能含20％的氮、80％的甲烷和微量的乙烷；蒸发气中的含氮量可能是液体LNG中含氮量的20倍。
+当LNG蒸发时，氮和甲烷优先气化，剩余液体中摩尔质量较大的烃类含量增大。对于蒸发气，不论是温度低于—113℃的纯甲烷，还是温度低于—85℃、含20％氮的甲烷，其密度均比空气密度大。但在常温常压下，这些蒸发气体的密度约为空气密度的0.6倍。
+5.3.2 闪蒸
+LNG与其他液体性质相同，当压力降至其沸点压力以下时，例如流过阀门后，部分液体就会蒸发，液体温度也将降到对应压力下的新沸点，称为闪蒸。由于LNG为多组分的混合物，闪蒸气体的组分与剩余液体的组分不一样，其原因与5.3.1中所述的原因类似。
+作为一个参考性数据，在1x10Pa～2x10Pa压力范围内，且在相应沸点温度下的LNG，压力每下降1x10 Pa，1㎡的液体约产生0.4kg的气体。LNG为多组分液体，更为精确计算其闪蒸所产生的气体和剩余液体的量及组分都是很复杂的。应采用已证实的热力学方法、工艺模拟软件及合适的数据库，通过计算机进行此类闪蒸计算。
+5.3.3 溢出
+当LNG倾倒至地面上时（事故溢出），最初会剧烈沸腾，然后蒸发速率将迅速衰减至一个恒定值，该值取决于地面的热性质和从周围空气获得的热量。如果将地面进行绝热处理，则这一速率将大幅度降低，如表2所示。表中的数据只是作为例子给出，当用于QRA分析或详细设计时应进一步校核。
+表2 蒸发速率
+60s后单位面积燕发速率材料
+kg/(㎡·h) 谱
+480 湿沙
+240 干沙
+195 水
+190 标准混凝土
+130 轻胶体混凝土
+65
+当溢出发生时，少量液体能转化成大量气体；大气条件下1单位体积的液体将转化为约600单位体积的气体（见表1）。当溢出发生在水上时，水中的对流传热非常强烈，足以使扩散范围内的蒸发速率保持不变。LNG溢出的波及范围将不断扩大，直到溢出液的蒸发速率等于溢出速率为止。
+5.3.4 气体云团的膨胀和扩散
+最初，蒸发气的温度几乎与LNG的温度一样，其密度比周围空气的密度大。蒸发气首先受到重力作用，沿地面上的一个薄层内流动，随后气体从地面吸热升温，到一定程度后便与周围空气混合。蒸发
+
+GB/T 19204-2020
+气被温度较高的空气稀释混合后，混合物温度升高，平均摩尔质量上升。混合物云团比周围空气重，直至充分混合至远低于爆炸极限之下。
+当空气中水分含量较大（较高的湿度和温度）时，空气和冷LNG蒸气混合，会使空气中的水分冷凝并加热混合物，使混合物变得比空气轻，导致混合气体云团飘浮在空气中。溢出、蒸气云的膨胀和扩散是复杂的课题，通常用计算机模型进行预测，需具备相关能力的机构进行预测。溢出发生之后，由于大气中水蒸气的冷凝作用将产生“雾”云。当这种“雾”云可见时（白天且没有自然雾），且空气中相对湿度足够高时，这种可见“雾”云可用来显示蒸发气体的扩散，并可作为气体与空气混合物可燃性程度的迹象，这是因为这种“雾”云的可见度是湿度和环境温度的函数，但与天然气的泄漏无关。
+在压力容器或管道发生泄漏时，LNG发生节流（膨胀）和气化的同时，以喷射流的方式进入大气中。这一过程伴随着气体与空气强烈混合。大部分LNG最初以气溶胶的形式存在于气体云之中。这种气溶胶最终将与空气进一步混合而蒸发。
+5.3.5 爆燃
+对于天然气／空气云团，当天然气在空气中的体积分数为5％～15％时就可以被引燃和引爆。5.3.6 池火
+直径大于10m的LNG火池，火焰的SEP非常高，应通过实测的正向辐射通量及火焰面积来计算。SEP取决于考虑火池的尺寸、烟的发散情况以及测量方法。SEP随着波及范围的增加而降低。给定情况的SEP参见参考文献。
+5.3.7 压力波的发展和后果
+在没有约束的混合云团中，天然气以低速燃烧，并在气体云团中产生小于5x10 Pa的小幅度超压。在高度拥挤的空间或受限制的区域（如设备或建筑密集的空间），可能产生较高的压力。
+5.3.8 密闭空间
+在常温下天然气无法通过加压而液化，在约一80℃以下才有可能在某个压力下液化。这就意味着被封存在密闭空间内的任何量的LNG，如在两个阀门之间或密闭容器中，如果允许其升温，其压力就会持续升高，直至密闭系统发生破坏。因此，工厂和设备都应设计有合适尺寸的放空和／或泄压阀。
+设计人员需特别留意，避免低温液体被密闭的任何可能性，即使是非常少量的低温液体，包括诸如球阀腔内液体的放空这类细节也需留意。
+5.3.9 翻滚
+在翻滚过程中大量气体可能在短时间内从LNG储罐中释放出来；除非采取预防措施或对容器进行特殊设计，否则翻滚将导致容器超压。在LNG储罐中可能形成两个稳定的分层或单元，这通常是由于新注人的密度不同的LNG混合不充分造成的。在每层内部液体密度是均匀的，但是底层液体的密度大于上层液体的密度。随后，由于输入储罐中的热量、各层间发生传热传质以及液体表面的蒸发，各层密度将达到均衡并且自发混合。这种自发的混合称之为翻滚；相对于储罐气相空间的压力而言，如果底层液体过热（通常正是这样的情况），翻滚的同时气化量也会增加；有时这种增加很快且量大。在少数几个实例中，储罐内部的压力上升的幅度足够大，以至于引起泄压阀的开启。
+关于翻滚问题，早期曾假设当上层密度大于下层密度时，才会发生翻转，由此产生翻滚这一术语。近期的研究表明，情况并非如此，而是如前所述的快速混合造成翻滚。潜在翻滚事故发生之前，通常有一段时间其气化速率远低于正常情况。因此应密切监测气化速率以确保液体没有积蓄热量。如果对此有怀疑，则应采取措施，循环底层液体至上层，以促进混合。通过良好的库存管理，可以防止翻滚。最好
+
+GB/T 19204-2020
+将来源不同和组分不同的LNG分罐储存，或在注入储罐时应充分混合。氮气含量高的调峰型LNG装置，在储罐停止进料后，由于氮气更易闪蒸，也可能引起翻滚。经验表明，预防这种类型的翻滚，最好方法是保持LNG的含氮量低于1％，并且密切监测气化速率。
+因此，若因LNG来源不同等原因，存在分层可能时，应密切监测储罐中LNG的密度。一旦发现分层，则应采取缓解措施。
+5.3.10 快速相变
+当温度不同的两种液体在一定条件下接触时，会产生冲击波。当LNG和水接触时，RPT现象就会发生。尽管不会发生燃烧，但会产生类似爆炸的压力波。LNG泄漏至水面上而引发的RPT是罕见的，而且影响也有限。与实验结果相符的一种理论可概述如下：当两种温差很大的液体直接接触时，如果较热液体的温度高于较冷液体沸点的1.1倍（以开氏温度表示），后者温度将迅速上升，其表层温度可能超过自发成核温度（此时液体中产生气泡）。在某些情况下，过热液体会通过复杂的链式反应机制在短时间内蒸发，而且以冲击波的速率产生蒸气。
+例如，液体之间能够通过机械冲击产生密切接触，将LNG或液态氮置于水面上的实验中证实了这种接触会引发快速相变。最近的研究对RPT有了更深刻的认识，可量化此现象的严重程度以确定是否需要采取预防措施。
+5.3.11 沸腾液体膨胀蒸气爆炸
+在高于某一压力下的任何处于或接近其沸点温度的液体，如果由于压力系统破裂而突然被释放，都会以极高的速率蒸发。已经发生过这种案例，剧烈的膨胀将破裂容器的大块构件抛出几百米。BLEVE在LNG装置上发生的可能性极小，一是因为储存LNG的容器在低压下就会发生破裂（参见参考文献），而且蒸发速率很低；二是由于LNG在绝热的压力容器和管道中储存和输送，这类容器和管道本身具有一定的防火能力。
+6 健康与安全 6.1 概述
+下面的推荐意见为LNG设施运行的有关人员提供指南，但不能取代国家相关法规的要求。6.2 置身于低温环境
+6.2.1 低温风险提示
+与LNG相关联的低温会对身体暴露的部分产生各种影响；如果对处于低温环境的人体未能适当地加以保护，则其反应敏捷度和其他能力将受到不利影响。
+6.2.2 操作与冷灼伤
+当皮肤与液体LNG接触时，可造成类似于灼伤的皮肤起泡现象。LNG蒸发产生的气体也具有极低的温度，同样会造成冷灼伤。如暴露于这种寒冷气体中，即使时间很短，不足以影响面部和手部的皮肤，但是，类似眼睛一类脆弱的组织仍会受到伤害。人体未受保护的部分不应接触盛有LNG而未经保冷的管道和容器，这种极冷的金属会粘住皮肉，如果用力移开则会将皮肉撕裂。
+6.2.3 冻伤
+严重或长时间地暴露在寒冷的蒸气和气体中会引起冻伤。通常会有局部疼痛给出冻伤预警，但有6
+
+
+
+GB/T 19204-2020
+时也会感觉不到疼痛。
+6.2.4 寒冷对肺部的影响
+长时间在极冷的大气环境中呼吸会损伤肺部；短时间暴露会引起呼吸不适。6.2.5 体温过低
+10℃以下的低温都有导致体温过低的危险，对于明显地受到低温影响的人，应迅速地从寒冷地带移开并用温水洗浴使体温恢复，水温应在40℃～42℃。不应利用干热的方法提升体温。
+6.2.6 推荐使用的防护服
+当装运LNG时，如果可以合理预见到将暴露于LNG的环境之中，应使用合适的面罩或安全护目镜以保护眼睛。触碰任何正在或可能已经与低温的液体或气体接触过的设备或器件时，均应始终佩戴皮革手套。佩戴的手套应当宽松以便在低温液体不慎溅到手套内部或表面时能够迅速脱去。即使佩戴手套，也只能短时间握持或接触设备。
+防护服或者类似的服装应是紧身的，最好没有口袋也没有卷边，裤子应穿在鞋或靴子的外面。若防护服被低温的液体或蒸气附着，穿用者在进入密闭空间或接近火源之前应对衣服进行通风处理。操作者应明白：防护服只是在偶然出现LNG溅落时起一定的保护作用，应尽量避免与LNG接触。
+6.3 置身于天然气环境中6.3.1 毒性
+LNG和天然气是无毒的。6.3.2 窒息
+天然气可以令人窒息。空气中氧气的体积分数通常为20.9％，大气中氧气的体积分数低于18％时，就可能会引起窒息。在空气中含高浓度天然气时，由于缺氧会产生恶心和头晕。然而一旦从暴露环境中撤离，则症状会很快消失。在进入可能存在天然气的地方之前，应测量该处氧气和烃类的含量。
+即使氧气含量足够高，不会引起窒息，在进入前也应使用专用仪器进行可燃性检测。
+6.4 火灾预防和消防
+在装运LNG时，建议备好干粉（最好是碳酸钾）灭火器。与装运LNG有关的人员应经过使用干粉灭火器扑灭液体火灾的培训。高膨胀性泡沫或泡沫玻璃块可用于覆盖LNG池火，进而极大地降低其辐射作用。应保证水的供应以用于冷却，或在配有设备的情况下用于产生泡沫。但是不应使用水进行LNG的直接灭火。有关防火和消防的设计，应遵守GB／T 22724或者GB／T20368，以及其他国际标准或国家标准。
+灭火器应为干粉型。 6.5 颜色
+蒸发气是无色的。但当其泄放至大气中时，会因空气中湿气冷凝形成白色云团。6.6 气味
+蒸发气是无气味的。 
+
+GB/T 19204-2020
+7 建造材料
+7.1 LNG工业中应用的材料7.1.1 概述
+绝大多数普通建造材料在极低温度条件下，会因脆性断裂而失效。尤其是碳钢的抗断裂韧性在LNG温度下（—160℃）很低。因此用于与LNG接触的材料应当验证抵抗脆性断裂性能。
+7.1.2 直接接触LNG的材料
+与LNG直接接触而不会变脆的主要材料及其一般应用列于表3中，该表尚不完全。
+表3 用于直接接触LNG的主要材料及其一般应用
+材料
+一般应用 奥氏体不锈钢
+储罐、卸料臂、螺母和螺栓、管道和管件、泵、换热器9％镍合金
+储罐 镍合金，镍铁合金
+储罐、螺母、螺栓 36％镍的铁合金（因瓦合金）
+管道、储罐 铝合金
+储罐、换热器 铜和钢合金
+密封件，磨损面 弹性材料
+密封件、垫片 混凝土（预应力）
+储罐
+密封件、填料函 册
+氟化乙烯丙烯共聚物（FEP）
+电绝缘 聚四氟乙烯（PTFE）
+密封件、填料函、轴承面聚三氟一氯乙烯（Kel F）
+轴承面 司太立合金
+轴承面
+司太立合金：Co55％，Cr33％，w10％．C2％． 7.1.3 正常操作下不直接接触LNG的材料
+用于低温状态，但在正常操作下不与LNG直接接触的主要材料列于表4中，该表尚不完全。
+表4 在正常操作下不与LNG直接接触的主要材料
+材料
+一般应用 低合金不锈钢
+滚珠轴承 混凝土（预应力、加强）
+储罐 胶体混凝土
+防泄漏围堰 木材（轻木、胶合板、软木）
+热绝缘 8
+
+
+
+GB/T 19204-2020
+表4（续） 材料
+一般应用 弹性材料
+涂料、胶黏剂 玻璃棉
+热绝缘 分层云母
+热绝缘 聚氯乙烯
+热绝缘 聚苯乙烯
+热绝缘 聚氨酯
+热绝缘 聚异氰腺酯
+热绝缘 砂子
+热绝缘 硅酸钙
+防泄漏围堰 二氧化硅（玻璃）
+热绝缘 泡沫玻璃
+热绝缘，防泄漏围堰 珍珠岩
+热绝缘 7.1.4 其他
+铝材常用于换热器。如果LNG中不含会腐蚀铝材的杂质，比如说汞，铝材可以直接接触LNG。液化装置的管式、板式换热器使用冷箱（钢制）加以保护。
+铝材还可用于储罐的内吊顶。
+专门设计用于液态氧或液态氮的设备和材料，通常也适用于LNG。
+设计用于LNG正常操作条件为较高压力和温度的设备时，也应考虑由于减压而引起内部介质温度的下降。
+7.2 温度应力
+用于LNG设施的大多数深冷装置都会承受从环境温度到LNG温度的快速冷却过程。
+在此冷却过程中出现的温度梯度将产生温度应力，该温度应力是瞬态的、周期性的，而且应力最大值发生在与LNG直接接触的容器壁上。这种应力随着材料厚度的增加而增加，当其厚度超过约10mm时，该应力则应引起关注。尤其对于一些关键部位，可用公认的方法计算转变应力或冲击应力，也可通过实验测其脆性断裂性能。
+LNG设施所承受的极端温度范围，会导致显著的热胀冷缩，配管和结构的设计应为由此而产生的位移留有一定余地，以避免出现过高的应力。另外，若管线中仅部分充填LNG，则由此引起的从管线顶部至底部的温度梯度会产生弯曲应力和永久变形，进而可能导致LNG的泄漏，主要发生在法兰连接处。
+应针对设备和管线系统开展柔性研究以确保最小柔性要求，防止在各个操作模式下（冷却、升温、瞬态工况等），因温度变化而产生过大的应力。柔性分析应包含所有正常工况、事故工况及特殊载荷工况（重力、风、雪、地震等）。
+
+
+
+GB/T 19204-2020
+参考文献 标准
+[1] ISO 6208 Nickel and nickel alloy plate,sheet and strip
+[2] ISO 6578 Refrigerated hydrocarbon liquids-Static measurement-Calculation procedure ISO 6974
+Natural gas-Determination of hydrogen,inert gases and hydrocarbons up to [8]
+C8-Gas chromatographic method
+[4] ISO 8310 Refrigerated hydrocarbon and non-petroleum based liquefied gaseous fuels- General requirements for automatic tank thermometers on board marine carriers and floating storage [5] ISO 9328 Steel flat products for pressure purposes-Technical delivery conditions
+[6] ISO 9722 Nickel and nickel alloys-Composition and forms of wwrought products [7] ISO 9723 Nickel and nickel alloy bars
+一般特性
+[8] Safety tools for LNG risk evaluation: cloud dispersion and radiation,D.NEDELKA,B. WEISS,B.BAUER(Gaz de France),IGU H812-91,Berlin(July 1991)
+[9] Methodology of Gaz de France concerning matters of LNG terminals,D.NEDELKA,A. GOY(Gaz de France),Paper 1,Session II,LNG 10,Kuala Lumpur(May 1992)
+[10] Grundlagen sicherheitstechnischer Erfordernisse im Umgang mit Flüssigerdgas(LNG),K. A.HOPFER,gwf Gas-Erdgas 130(1989),S 27-32
+LNG 火灾
+[11] Calculation of radiation effects,D.NEDELKA(Gaz de France),EUROGAS Trondheim (May 1990)
+[12] The MONTOIR 35 m diameter LNG pooI fire experiments,D.NEDELKA,J.MOOR- HOUSE,R.F.TUCKER,(Gaz de France,British Gas,Shell Research),Paper 3,Session II,LNG 9, Nice(Nov 1989)
+[13] Fire safety assessment for ISO storage facilities,B.J.LOWESMITH,J.MOORHOUSE,P. ROBERT,Paper 2,Session I,Intern.Conference on LNG(LNG 10),Kuala Lumpur 1992
+[14] Prediction of the heat radiation and safety distances of large fires with the model OS- RAMO,A.SCHONBUCHER et al,7th Int.Symp.on Loss Prevention and Safety Promotion in the process industries,68-1/68-16,Proceedings,Taormina(1992)
+[15] Das experimentell validierte Ballen-Strahlungsmodell OSRAMO,Teil 1:Theoretische Grundlagen,A.SCHONBUCI-IER et al,Tu 33(1992),137/140
+[16] Das experimentell validierte Ballen-Strahlungsmodell OSRAMO,Teil 2:Sicherheitstech- nische Anwendung(Sicherheitsabstande),A.SCHONBUCHER et al,Tü 33(1992),219/223
+[17] LNG fire:A thermal radiation model for LNG fires,Topical report,June 29,1990,Gas Re- search institute,8600 West Bryn Mawr Avenue,Chicago,Illinois 60631
+[18] Thermal radiation from LNG trench fires,Volume II,Final report,September 1982-Sep- tember 1984,Gas Research Institute,8600 West Bryn Mawr Avenue,Chicago,Illinois 60631
+[19] Methods of the calculation of the physical effects of the escape of dangerous material, Chapter 6-Heat radiation,G.W HOFTIJER TNO Organization for Industrial Research-Division of Technology for Society P.O.Box 342,7300 AH Apeldoorn,Netherlands
+[20] Large scale LNG and LPG pool fires in the assessment of major hazards,GA MIZNER and 10
+
+
+
+GB/T 19204-2020
+J.A.EYRE,Institution of Chemical Engineers Symposium,Series No.71(1982)
+[21] DOE/Sandia National Laboratories Coordinated Approach for LNG Safety and Security Research,Briefing to NARUC Staff Subcommittee on Gas July 15,2007
+[22]Dr.Phani K.Raj,Large LNG Fire Thermal Radiation-Modeling Issues & Hazard Criteria Revisited,Technology&Management Systems,Inc,Process Safety Progress,2005
+[23] Phani K.R aj,NFPA 59A Vapor Dispersion & Thermal Radiation Models in the light of New Data Technology&Management Systems,Inc.Burlington,MA 01803 Presented at the AGA-NF- PA 59A Standards Workshop Charlotte,NC,2006
+[24] MeGrattan K.B.,Baum H.R.,Hamins A.Thermal Radiation1 from Large Pool Fires, NISTIR 6546.NIST,2000
+[25] Fire L.N.G.H MALVOS and P.K.RAJ,Thermal Emission and other characteristics of large Liquefied Natural Gas Fires.Process Safety Progress.2007 September,26 pp.237-247
+快速相变
+[26] Contribution to the study of the behaviour of LNG spilled onto the sea,A,SALVADORI,J. C.LEDIRAISON,D.NEDELKA,(Gaz de France),Session II,LNG 7,Djakarta(May 1983)
+[27] Rapid phase transitions of cryogenic liquids boiling on water surface,J.D.SAINSON,C. BARADEL,M.ROULEAU,J.LEBLOND(Gaz de France,ESPCI,ENS),Paper 9,Session II, Eurotherm Louvain(May 1990)
+[28] Propagation of vapor explosion in a stratified geometry.Experiments with liquid nitrogen and water,J.D.SAINSON,M.GABILLARD,I WILLIAMS(Gaz de France,Gas Research Institute), CSNI-Fuel Coolant Interaction-Santa Barbara(Jan.1993)
+[29] Evaluation of Rapid Phase Transition between LNG and Water,SAUTER V.,GOANVIC J.,OBHA R.,IGRC2004
+翻滚
+[30] LNG stratification and rollover,J.A.SARSTEN.Pipeline and Gas Journal.1972 Sep.,199 p.37
+[31] Tests on LNG behaviour in large scale tank at Fos-sur-Mer terminal,F BELLUS,Y.REV- EILLARD,C.BONNAURE,L.CHEVALIER(Gaz de France),Paper 9,Session II,LNG 5(May 1977) [32] Management of LNG storage tanks,Stratification,mixing and ageingof LNG,O.MARCEL,A.GI- RARDLAOT,P.LANGRY(Gaz de France),Paper 4,Session II,LNG 10,Kuala Lumpur(May 1992)
+[33] LNG tank filling:Operational procedures to prevent stratification,M.BAUDINO(SNAM), Paper H5,16th World Gas Conference,Munich(1985)
+[34] A Software Program Designed for the Safe Management of LNG Tanks,O.MARCEL,D. UZNANSKI,J.DUBOST(Gaz de France),Spare Paper,Session II,LNG 11,Birmingham(July 1995) ［3a］ Recent Advance i the Opnited 日aTagE日作nt ofLNGStorage Tank Ealing QpEraEons
+D.UZNANSKI(Gaz de France),Y.AOYAGI(Osaka Gas),A.BENITO(ENAGAS),paper PO 16, Poster Session,LNG 13,Seoul(May 2001)
+[36] Advance LNG Storage Tank management,D.UZNANSKI(Gaz de France),P.VERSLUIJS (Whessoe),Session LNG VI-Storage&Facilities,Third Natural Gas UtilizationTopical Conference, AIChE Spring Meeting,NVew Orleans(April 2003)
+[37] How to Operate LNG Receiving Terminals with Flexibility/safety despite the Diversifica- tion of Unloaded LNG Qualities,O.GORIEU,D.UZNANSKI(Gaz de France),P.DUPONT(University of Nantes),Paper PO-26,Poster Session,LNG 14,DOHA(March 2004)
+11 
+
+GB/T 19204-2020
+[38] CFD Simulation on LNG Storage Tank to Improve Safety and Reduce Cost,K.Koyama (Tokyo Gas Co.,Ltd.),Systems Modelling and Simulation-Theory and Applications Asia Simulation Conference2006,Tokyo(November 2006)
+[39] Development of fluid dynamics simulations for LNG storage tanks,M.Maeda(Tokyo Gas Co.,Ltd.),Y.Shirakawa(Tokyo Gas Co.,Ltd.),Paper PO-50,Poster Session,LNG 15,Barcelona (April 2007)
+[40] Stratification and Rollover Simulation to Improve Efficiency and Reduce Cost at LNG Re- ception Terminals,Y.Shirakawa(Tokyo Gas Co.,Ltd.),K.Koyama(Tokyo Gas Co.,Ltd.),LNG Journal(February,2008)
+[41] First step in optimnizing LNG storages for offshore terminals,Y.ZELLOUF,B.PORTAN- NIER.Journal of Natural Gas Science and Engineering.2011 October,3 pp.582-590
+沸腾液体膨胀蒸气爆炸
+[42] LNG and explosions of BLEVE type,L MONTENEGRO FORMIGUERA(Catalana de Gas y Electricidad),Gas National Conference XII,Madrid(May 1987)
+LNG 手册
+[43] Encyclopédie de gaz-L'Air Liquide-Elsevier(1976)
+[44] LNG materials and fluids:A users manualof property data in.graphic format,National Bu- reau of Standards.Douglas Man,Boualder:1977
+LNG 溢出
+[45] Boiling and spreading rates of instantaneous spills of liquid methane on water,D.J. CHATLOS,R.C.REID,Gas Research Institute 81/0045(April 1982)
+[46] Verein Deutscher Ingenieure,Arbeitsblatt VDI 3783,Blatt 1:Ausbreitung von storffallbedingten Freisetzungen,Sicherheitsanalyse
+[47] Verein Deutscher Ingenieure,Arbeitsblatt VDI 3783,Blatt 2:Ausbreitung von storfallbedingten Freisetzungen schwerer Gase,Sicherheitsanalyse
+12 
+
+中华人民共和国
+国家标准
+液化天然气的一般特性
+GB/T 19204-2020
+中国标准出版社出版发行
+北京市朝阳区和平里西街甲2号（100029）北京市西城区三里河北街16号（100045）网址：www.spc.org.cn 服务热线：400—168—0010
+2020年6月第一版
+书号：155066·1—64965GB/T 19204-2020
+版权专有 侵权必究
+GB/T 19204-2020 

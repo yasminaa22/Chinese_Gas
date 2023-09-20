@@ -1,0 +1,1029 @@
+ICS 75.180
+E 20/29
+备案号：43242—2014
+SY
+中华人民共和国石油天然气行业标准
+SY/T 6936-2013 液化天然气词汇
+Liquefied natural gas glossary 2013—11—28发布
+2014—04—01 实施国家能源局
+发布 
+
+一
+一
+1
+2
+8
+13
+II
+16
+次
+I
+目
+前言
+2
+英文索引
+中文索引
+················································
+-12
+2.4 ···········································
+6·························
+2.3·············································
+2.2 液化与接收·
+·············..
+2.1 基础···
+·································メ
+1 范围···
+SY/T 6936-2013
+
+
+
+SY/T 6936-2013
+前
+言
+本标准按照GB／T 1.1—2009《标准化工作导则 第1部分：标准的结构和编写》给出的规则起草。
+本标准由全国石油天然气标准技术委员会液化天然气分技术委员会提出并归口。
+本标准起草单位：中海石油气电集团有限责任公司、中石油京唐液化天然气有限公司、中国石油天然气与管道分公司。
+本标准主要起草人：单彤文、崔蜂、周婵、陈杰、陈峰、付子航、侯建国、刘淼儿、宋坤、张超、安子春、王莉、胡颖。
+II 
+
+SY/T 6936-2013
+液化天然气词汇 1 范围
+本标准界定了与液化天然气行业的液化、接收、储存、运输、利用、商务等业务有关的词汇。本标准适用于液化天然气行业的工程设计、工程施工、生产运行、技术研究、商务管理等工作。2 术语和定义
+2.1 基础 2.1.1
+液化天然气 liquefied natural gas（LNG）
+主要由甲烷组成，可能含有少量的乙烷、丙烷、丁烷、氮或通常存在于天然气中的其他组分的一种无色液态流体。
+2.1.2
+液化天然气组成 LNG composition
+LNG所含甲烷、乙烷、丙烷、丁烷、氮等各种组分的相对含量。2.1.3
+包容 containment
+以封闭结构的装置和设备来容纳LNG。这些封闭结构可能因温度的升高导致内部压力逐渐升高，需要设计有适当尺寸的排放孔和／或泄压阀来避免系统失效或破坏。
+2.1.4
+液化天然气溢出 spillage of LNG
+LNG流至地面或水面，流淌的范围不断扩展，吸热后发生猛烈沸腾产生大量蒸发气的现象。2.1.5
+液化天然气快速相变 rapid-phase-transition of LNG （RPT）
+LNG与水或其他温度不同的液体接触时，LNG激烈沸腾并导致LNG蒸发气产生具有爆炸特征的一种现象。这种爆炸不发生燃烧，但是具有爆炸的所有其他特征。
+2.1.6
+气体云膨胀和扩散 expansion and dispersiomn of gas clouds
+当LNG溢出后，LNG蒸发气将沿地表的一个层面流动并形成与空气的气体混合物，该混合物从大气中继续吸热升温、体积变大，直至其密度比周围空气的密度小、逐步向上运动并进一步与空气发生传热和传质过程的现象。
+2.1.7
+池火 pool fires
+当LNG溢出后并流淌，受到防火堤的阻挡或地形限制后，在某一限定区域内积聚形成一定厚度的池液，遇到火源产生燃烧的现象。
+2.1.8
+翻滚 roll-over
+1 
+
+SY/T 6936-2013
+容器（通常为储罐）中不同深度的LNG因温度和／或密度的差异面产生传热、传质，致使各液体层发生快速的混合并伴随大量蒸发气从LNG容器中急剧释放的现象。
+2.1.9
+沸腾液体膨胀蒸气爆炸 boiling liquid expanding vapor explosion （BLEVE）
+处于一定压力下饱和温度附近的LNG，因压力系统突然失效而导致该液体急剧气化并释放、产生爆炸特征的现象。
+2.1.10
+蒸发气 boil-off gas （BOG）
+由于外界的热量引入以及在容器进料过程中的闪蒸等原因，引起LNG气化产生的气体。2.2 液化与接收
+2.2.1
+天然气液化厂 natural gas liquefaction plant
+将气态天然气变成液化天然气的场所，一般包括天然气（原料气）预处理、天然气分馏、天然气液化、LNG储存和LNG装船（车）等生产单元。
+2.2.2
+浮式液化天然气生产储卸装置 floating LNG production，storage and offloading unit （LNG FPSO/FLNG)
+将气态天然气变成液化天然气的海上浮式装置，一般包括天然气（原料气）预处理、天然气分馏、天然气液化、LNG储存和LNG装船等生产单元。
+2.2.3
+浮式接收储存气化装置 floating storage and re-gasification unit （FSRU） 能够接收、储存及气化LNG，并具有天然气外输能力的海上浮式装置。2.2.4
+原料气预处理 feed gas pretreatment
+原料气进入液化流程前所进行的脱除杂质的预处理过程，主要包括脱除原料中的硫化氢、二氧化碳、有机硫、水、重烃和汞等杂质。
+2.2.5
+原料气脱酸装置 acid gas removal unit（AGRU）
+为脱除原料气中的二氧化碳和硫化氢等酸性气体，达到液化单元的进液设计要求，保证液化设备的运行安全和LNG产品品质合格的天然气液化前端预处理的装置。
+2.2.6
+基本负荷型天然气液化装置 base-load LNG facility
+按照天然气液化装置正常生产负荷稳定生产LNG，并稳定供外运（通常为船运）的具有一定规模的天然气液化装置。
+2.2.7
+调峰型天然气液化装置 peak-shaving LNG facility
+可间断运行，主要用于对用户用气不均衡性进行调节的天然气液化装置。2.2.8
+制冷循环 refrigeration cycle
+利用制冷剂状态变化为被冷却对象提供冷量的循环。通常的循环过程为：低压气相制冷剂通过增压、冷却后，在节流阀或膨胀机中降压和降温，产生的低温制冷剂在LNG换热器中吸收天然气的热2
+
+
+
+SY/T 6936-2013
+量，然后重新回到制冷剂压缩机入口，形成一个完整循环。2.2.9
+混合制冷剂天然气液化工艺流程 mixed-refrigerant eycle liquefaction process （MRC）
+通常用C1～C3的碳氢化合物，以及氮气等多组分混合制冷剂为工质，经过不同温度逐级冷凝、蒸发、节流膨胀得到不同温度的制冷量，以使天然气逐步冷却和液化的将天然气液化的工艺流程。2.2.10
+单循环混合制冷剂天然气液化工艺流程 single mixed-refrigerant cycle liquefaction process (SMRC)
+通常用C1～Cs的碳氢化合物，以及氮气等多组分混合制冷剂为工质，通过一个独立的制冷循环，经过逐级冷凝、蒸发、节流膨胀得到不同温度的制冷量，以使天然气逐步冷却和液化的将天然气液化的工艺流程。
+2.2.11
+丙烷预冷混合制冷剂天然气液化工艺流程 propane pre-cooled mixed refrigerant cycle liquefaction process(C3/MRC)
+由丙烷预冷循环、混合制冷剂循环和天然气液化三部分回路组成的将天然气液化的工艺流程。2.2.12
+双循环混合制冷剂天然气液化工艺流程
+dual-mixed refrigerant cycle liquefaction process(DMRC)
+由预冷混合制冷剂循环、深冷混合制冷剂循环和天然气液化三部分回路组成的将天然气液化的工艺流程。
+2.2.13
+氮气膨胀天然气液化工艺流程 nitrogen expander cycle liquefaction process
+以氮气为制冷剂，利用透平膨胀机绝热膨胀的克劳德循环制冷将天然气液化的工艺流程。2.2.14
+天然气膨胀液化工艺流程 natural gas expander eycle liquefaction process
+直接利用高压天然气在膨胀机中绝热膨胀到外输压力实现制冷而将天然气液化的工艺流程。2.2.15
+级联式天然气液化工艺流程 cascade cycle liquefaction process
+通常由三级独立的制冷循环组成，也被称为阶式液化流程、复叠式液化流程或串联蒸发冷凝液化流程。
+2.2.16
+主低温换热器 main cryogenic heat exchanger（MCHE）
+在液化工艺流程中承担主要降温过程换热负荷的换热器，一般指液化段和过冷段的换热器，常用绕管式换热器或板翅式换热器。
+2.2.17
+绕管式换热器 spiral／coil-wound heat exchanger （SWHE／CWHE） 传热单元由缠绕管组成的低温换热设备。
+2.2.18
+板翅式换热器 plate-fin heat exchanger （PFHE） 传热单元由板和翅片钎焊组成的低温换热设备。2.2.19
+冷箱 cold box
+一组由板翅式换热器和气液分离器等设备组成，经过绝热保冷的低温换热设备。
+3 
+
+SY/T 6936-2013
+2.2.20
+焦耳一汤姆逊阀 Joule-Thomson valve（J-T valve）
+利用焦耳一汤姆逊节流膨胀原理制成的使高压工质经过节流膨胀降温的阀门，简称J—T阀。2.2.21
+低温液力透平 cryogenic liquid expander
+在不发生相变的条件下，将带有一定压力的低温液体工质中蕴含的能量转化成机械能的设备。2.2.22
+两相低温液力透平 two-phase cryogenic liquid expander 进口为低温液相工质，出口为气液两相的液力透平。
+2.2.23
+液化天然气码头 LNG jetty
+为液化天然气船舶提供锚泊、进出港、靠离泊和装卸作业的港口设施。2.2.24
+液化天然气运输船 LNG carrier／LNG tanker／LNG vessel 用于运载LNG的专用船舶。
+2.2.25
+球形液舱型液化天然气运输船 moss-type LNG carrier 采用球形液舱的LNG运输船。
+2.2.26
+薄膜液舱型液化天然气运输船
+membrane-type LNG carrier 采用薄膜液舱的LNG运输船。
+2.2.27
+液化天然气穿梭式运输气化船 shuttle and regsification vessel （SRV） 具有运输、储存、气化和外输功能的LNG船舶。
+2.2.28
+船岸界面 ship-shore interface
+与LNG转输、上下船通道和船供给有关的船舶和码头之间的所有作业交界面。2.2.29
+船岸传输设施 ship-shore transfer facilities
+用于接收或输出LNG并拥有各种船／岸连接作业设备的码头设施。2.2.30
+船舶货物管汇 ship＇s cargo manifold
+LNG运输船上用于与装／卸料臂法兰连接的，带有法兰的货管端口总成。2.2.31
+装卸臂 LNG marine loading and unloading arms
+用于从LNG运输船进行装载或卸载LNG作业的设备，包括安装在码头的基座立柱及其支撑结构和所有附件。
+2.2.32
+低温软管 cryogenic hose
+具有一定抗拉能力及承压能力，采用金属波纹管材料或复合材料制成，能够传输LNG的柔性管道。
+2.2.33 伸缩臂
+pantograph 4
+
+
+
+SY/T 6936-2013
+在LNG装卸臂系统中，将次配重的力和力矩传给外臂的键接和销接组件，通常指钢缆和滑轮。2.2.34
+装卸臂包络范围 LNG arm envelope 单台装卸臂作业需要的空问。
+2.2.35
+快速连接／解脱装置 quick connect／disconnect couplers （QCDC）
+在装卸臂的组合式旋转接头的法兰与船上装卸口法兰对接后，对连接法兰实施快速压紧的装置。2.2.36
+紧急解脱系统 emergency release system （ERS）
+在LNG运输船装卸过程中，当船位移接近装卸臂的包络范围边界，使装卸臂与LNG船迅速脱离的装置。
+2.2.37
+位置监测系统 position monitoring system （PMS）
+一旦LNG运输船系泊到泊位上、卸料臂连接完毕，通过屏幕监视运输船的位置，能够测量运输船漂移的速度，并能自动发出警报，避免设施受损的设施。
+2.2.38
+液化天然气接收站 LNG terminal／LNG receiving terminal／LNG regasification terminal 对船运LNG进行接收（含码头卸船）、储存、气化和外输等作业的场站。
+2.2.39
+BOG总管 BOG header
+收集LNG接收站内所有存有LNG的容器和处理LNG的设备中产生的BOG的低压汇管。2.2.40
+液化天然气卸料总管 LNG unloading header
+将船运的LNG经由码头卸料臂汇集后输送到陆上的低温管道。2.2.41
+返回气 ship return vapour
+在LNG接收站中，为保持船运LNG在卸料时船舱内压力，从陆上BOG总管引出返回到码头，再经由码头上的回气臂返回到LNG船舱内一部分BOG气体。
+2.2.42
+码头液化天然气收集罐 jetty LNG drain drum
+用于收集LNG接收站码头上LNG的设备或管道中导淋排放的LNG液体的容器。在BOG返回气管道带有减温器的情况下，也可作为气液分离罐使用。
+2.2.43
+保冷循环 keep cooling recirculation
+LNG管道或设备在停用时，以小流量LNG循环保持其冷备用状态的操作。2.2.44
+预冷 precool
+为防止温度骤降对设备和管件造成损伤，将常温状态下的LNG设备和管道逐渐冷却至低温状态的操作。
+2.2.45
+拦蓄区 impounding area
+现场用防护堤或利用地形条件圈定的用于防止LNG或易燃制冷剂事故溢出的区域。
+5 
+
+SY/T 6936-2013
+2.2.46
+集液池 impounding basin
+在拦蓄区或泄漏收集区域内，或与拦蓄区或泄漏收集区域连接的，用来收集并安全控制泄漏液化天然气的一种收集容器。
+2.2.47
+液化天然气返装作业 LNG ship reloading
+将卸载到LNG接收站储罐内的LNG用泵重新装载到小型LNG船舶上的操作。2.2.48
+液化天然气罐内泵 LNG in-tank pump
+电动机和泵直接连接在一起，通过泵筒将其放置在大型储罐内，并整体完全浸没在LNG液体中，将储罐内LNG外输的泵。
+2.2.49
+立式浸没筒袋泵 vertical submerged barrel pump
+立式多级离心泵和电机全部浸没安装在一个充满I.NG并配备外保冷层的桶型容器中，泵的进出口安装在容器顶端盖板上，用于对从LNG储罐中排出的低压LNG进行再增压。
+2.2.50
+立式外装泵 vertical charging pump
+泵体浸没在LNG内，驱动电机安装在外部的LNG增压外输泵。2.2.51
+气化器 vaporizer
+一种加热LNG，使LNG转变为气态天然气的热交换装置。2.2.52
+浸没燃烧式气化器 submerged combustion vaporizer （SCV）
+以天然气作燃料，使用一个直接向水中排出燃气烟气的燃烧器，通过鼓风机吹动燃气烟气与水直接接触并激烈地搅动水，使其与换热盘管充分换热，LNG在换热盘管中被气化的一种整体加热气化器。
+2.2.53
+开架式气化器 open rack vaporizer （ORV）
+用海水作为LNG气化热源，将海水直接喷淋在气化器的换热管束上，LNG在管内吸收海水热量的一种气化器。
+2.2.54
+中间介质气化器 intermediate fluid vaporizer （IFV）
+利用一种中间介质蒸腾冷凝的相变过程，将热源的热量传递给LNG，使其气化外输的组合型管壳式气化器。
+2.2.55
+空气热源式气化器 ambient air-based heating vaporizers （AAV）
+利用空气直接气化LNG，或借助闭式管路的传热介质经过管壳式气化器与LNG进行换热气化的气化设备。
+2.2.56
+再冷凝器 recondenser
+用于冷却经BOG压缩机压缩后的BOG，并通过与过冷的LNG接触使BOG冷凝液化的热交换装置。
+6 
+
+SY/T 6936-2013
+2.2.57
+主容器 primary container
+用来承装LNG，并直接与LNG接触的容器。2.2.58
+次容器 secondary container
+一般位于主容器之外，泄漏时承装LNG，正常运行工况下不与LNG接触的容器。2.2.59
+单容罐 single containment tank
+具有液密性和气密性，储存LNG的自支撑式钢质圆储罐。2.2.60
+双容罐 double containment tank
+具有液密性的次容器和建立在次容器之中的单容罐共同组成的容器。2.2.61
+全容罐 full containment tank
+具有液密性、气密性的次容器和建立在次容器之中的单容罐共同组成的容器。2.2.62
+地下储罐 underground tank
+储罐周围4m范围内的地面最低标高高于储罐最高液位0.2m的LNG储罐。2.2.63
+半地下储罐 semi-underground tank
+一半以上罐体都位于储罐周围4m范围地面以下的LNG储罐。2.2.64
+冻土地下储罐 frozen ground container
+最高液位低于周围自然地坪标高，主要用天然材料如土、石建成，依靠水饱和土石材料的冻结，并采用适当的方法保持密封或自然不渗漏的一种储罐。
+2.2.65
+预应力混凝土储罐 prestressed concrete container
+采用预应力材料钢筋加固，使不同荷载或荷载组合产生的内应力不超过规定的允许应力的一种混凝土储罐。
+2.2.66
+薄膜罐 membrane tank
+由一个薄的钢质主容器（即薄膜）、绝热层和混凝土罐体共同组成的能储存液体的复合结构。2.2.67
+围堰 embankment／bund wall
+在围绕储罐一定距离处用泥土或混凝土建造，用来容纳溢出液体的低矮构筑物。2.2.68
+环形空间 annular space
+自支撑式储罐的内壁与外壁或外墙之间的空间。2.2.69
+绝热空间 insulation space
+储罐环形空间以及储罐底部或顶部容纳绝热材料的空间。2.2.70
+隔气层 vapour barrier
+7 
+
+SY/T 6936-2013
+防止罐外气体进入绝热材料或外罐的隔离层。2.2.71
+产品蒸发气隔离层 product vapour barrier
+防止产品蒸发气从储罐内泄漏的聚合物隔离层或衬里。2.2.72
+聚合物隔气层 polymeric vapour barrier
+应用于混凝土上防止产品蒸发气、水蒸气泄漏的聚合物层，有时也用作隔液层。2.2.73
+吊顶 suspended deck
+用于承载储罐顶部绝热层，避免珍珠岩掉入内罐，与钢穹顶通过吊杆连接的结构。2.2.74
+热角保护 thermal corner protection （TCP）
+由镍钢二层底、壁，以及保温材料组成，能保证在内罐泄漏的情况下保护罐底和混凝土底层的外壁，保证罐体不失效的结构。
+2.2.75
+热防护系统 thermal protection system （TPS）
+储罐中用来保护外罐免受低温影响的绝热和液密性结构。2.2.76
+运行基准地震 operating basis earthquake（OBE）
+不会造成损坏、不影响重新启动和可以继续安全操作的最大地震活动。注：此级别的地震不会损害运行的整体性，能够保证公共安全。
+2.2.77
+安全停运地震 safe shutdown earthquake （SSE）
+基本失效保护功能和机械装置设计能承受的最大地震活动。
+注：允许造成永久性损坏，但无整体性和包容性的损伤。若未经过仔细检验和结构评估，该储罐将不能继续使用。
+2.2.78
+液位、温度、密度监测仪 LTD monitoring system
+对储罐液位、温度、密度进行综合监测的系统。液位、温度和密度的测量值可以在控制室连续显示。
+2.3 利用 2.3.1
+液化天然气槽车 LNG truck
+用于在公路上运输LNG的车辆。2.3.2
+液化天然气装车橇 LNG truck loading package
+将LNG装车鹤管和回气鹤管安装在一个金属支撑立柱上，并配备有快速接头、控制系统及吹扫系统等辅助系统，能够将LNG充装到LNG槽车内的成套设备。
+2.3.3
+液化天然气槽船 LNG ship navigated in river or nearshore sea 用于在近海、沿江、沿河中运输LNG的船舶。
+8 
+
+SY/T 6936-2013
+2.3.4
+液化天然气卫星站 LNG satellite station
+用于供应天然气长输管道不易到达的中小城镇或工业企业用户等的小型LNG接收站。一般接收由槽车运输来的LNG，并进行储存、气化和外输等作业的场站。
+2.3.5
+真空绝热罐 vacuum thermal insulation tank
+内罐为耐低温不锈钢压力容器，外罐采用碳钢材料，夹层填充绝热材料，并抽真空的双层金属罐。
+2.3.6
+子母罐 composite tank
+多个（三个以上）子罐并联组成内罐置于同一外罐内，用来储存液体的复合结构。2.3.7
+液化天然气加气站 LNG filling station 为LNG车辆充装LNG燃料的专门场所。2.3.8
+L-CNG加气站 L-CNG filling station
+能将LNG转化为压缩天然气（简称CNG），并为CNG汽车储气瓶充装车用CNG的专门场所。2.3.9
+LNNG，L-CNG两用加气站 LNG and L-CNG filling station
+能同时为LNG车辆充装LNG，以及将LNG转化成CNG为CNG车辆充装燃料的专门场所。2.3.10
+橇装加气站 skid-mounted LNG filling station 将主要工艺设备集成安装在橇块上的加气站。2.3.11
+加油加气站 oil and gas filling station
+同时具备为汽车加油和天然气汽车加气功能的专门场所。2.3.12
+液化天然气加气机 LNG dispenser
+给LNG车辆储气瓶充装LNG，并带有计量、计价显示等功能的专用设备。2.3.13
+加气岛 filling island 用于安装加气机的平台。2.3.14
+加气枪 filling gun
+附属加气机与加气软管连接，向LNG（CNG）储气瓶充装LNG（CNG）的专用设备。2.3.15
+液化天然气冷能利用 LNG cryogenic energy utilization
+在LNG气化过程中，对其释放的冷能采用直接或间接的方法加以利用。常见LNG冷能利用方式有：空气分离、冷能发电、低温粉碎、海水淡化等。
+2.4 商务 2.4.1
+现货贸易主合同 master sale ＆ purchase agreement for spot trading （MSPA for spot trading）
+9 
+
+SY/T 6936-2013
+LNG 现货买方和卖方在进行现货交易之前通常先谈判签署的合同，用于确定现货交易过程的有关操作、支付、信用保障、赔偿等权利和义务。在进行现货交易时，买卖双方只需签署基于该合同的确认函。
+2.4.2
+现货贸易确认函 confirmation memorandum （CM）
+在现货贸易主合同基础上用来规定现货交易价格、货量、装载港、卸载港、运输船只、滞期费等关键条款的文件。
+2.4.3
+液化天然气购销合同 LNG sale ＆ purchase agreement （LNG SPA） 通常为除现货之外的LNG采购和销售的一种合同形式。
+2.4.4
+天然气销售合同 gas sale agreement（GSA） 通常为销售气态天然气的合同。
+2.4.5
+液化天然气项目开发协议 LNG project development agreement （LNG PDA）
+规定上游资源开发、中游液化厂建设以及LNG采购和销售等一揽子合作方案的纲领性法律文件。
+2.4.6
+价格回顾 price review
+在长期LNG采购和销售合同中规定的，买卖双方有权在合同执行一段时间后对合同价格进行的重新谈判。在进行价格回顾时，一般不改变其他合同条款。
+2.4.7
+照付不议 take or pay（TOP）
+天然气采购和销售合同中采用的因买方原因造成用气和提气未达到合同规定气量时，买方仍需按照合同规定的气量和气价付费；而因卖方原因造成供气量未达到合同规定气量时，卖方要对买方作相应补偿的一种国际惯例和规则。
+2.4.8
+买方设施 buyer＇s facility
+在LNG采购和销售合同中规定的主要用于在发生不可抗力事件时明确影响范围的买方有关设施。通常指位于LNG卸载港的相关设备，包括卸载、储存、气化、处理和输送设施等。
+2.4.9
+卖方设施 seller＇s facility
+在LNG采购和销售合同中规定的主要用于在发生不可抗力事件时明确影响范围的卖方有关设施。通常指位于装载港的天然气液化及其附属设备，包括液化生产线、储罐、码头、靠泊及相关港口设施等。
+2.4.10
+标准液化天然气运输船 standard LNG vessel
+通常指载货能力在12.5x10＊m3～17x10＊㎡的LNG运输船。2.4.11
+Q-FLEX型液化天然气运输船 Q-FLEX LNG vessel
+通常指载货能力在20x10＊m～21.7x10＊㎡的LNG运输船。2.4.12
+Q-MAX型液化天然气运输船 Q-MAX LNG vessel 10
+
+
+
+SY/T 6936-2013
+通常指载货能力在27x10＊m左右的LNG运输船。2.4.13
+船岸匹配研究 ship shore compatibility stuidy （SSCS）
+对LNG运输船的设备和操作程序同相关装载港或卸载港的设备和操作程序能否匹配所做的研究。
+2.4.14
+船上贸易交接系统 custody tranisfer system on board ship
+由液位计、温度计和压力计构成的，用来测定以贸易交接为目的的船上储罐内货物液位、温度和压力的系统。
+2.4.15
+热校正系数 thermal correction factor
+用来将船上储罐内任意温度下LNG的体积校正到参比温度下的体积的系数。2.4.16
+日本一揽子原油进口平均价格 Japan crude cocktail （JCC） 日本海关统计的月度进口一揽子原油价格的算术平均价。2.4.17
+英国国家平衡点 national balance point（NBP）
+英国的一个虚拟天然气交易中心，为洲际交易所（ICE）期货合约提供报价和交付点，是欧洲最具流动性的天然气交易中心。
+2.4.18
+美国亨利中心天然气价格 Henry hub price（HH）
+以美国路易斯安那州的管道天然气输送集散点—亨利中心为名称的一种天然气交易价格指数，为纽约商品交易所（NYMEX）的天然气期货合约和洲际交易所（ICE）的场外掉期交易提供报价，是北美天然气市场主要的天然气现货和期货价格指数。
+11 
+
+SY/T 6936-2013
+参考文献 ［1］ GB／T 19204—2003 液化天然气的一般特性
+[2] GB/T 20368-2006
+液化天然气（LNG）生产、储存和装运[3] GB/T 20603 -2006
+冷冻轻烃流体 液化天然气的取样 连续法[4] GB/T 21068-2007
+液化天然气密度计算模型规范[5] GB/T 22724-2008
+液化天然气设备与安装陆上装置设计[6] GB/T 24957-2010
+冷冻轻烃流体 船上膜式储罐和独立棱柱形储罐的校准 物理测量法［7］ GB／T 24958.1——2010 冷冻轻烃流体 船上球形储罐的校准 第1部分：立体照相测量法[8] GB/T 24959-2010
+冷冻轻烃流体 液化气储罐内温度的测量 电阻温度计和热电偶[9] GB/T 24960-2010
+冷冻轻烃流体 液化气储罐内液位的测量 电容液位计[10] GB/T 24961-2010
+冷冻轻烃流体 液化气储罐内液位的测量 浮子式液位计[11] GB/T 24962-2010
+冷冻烃类流体 静态测量 计算方法[12] GB/T 24964-2010
+冷冻轻烃流体 液化天然气 船上贸易交接程序[13] GB/T 26978-2011
+现场组装立式圆筒平底钢质液化天然气储罐的设计与建造［14］GB／T 26980—2011 液化天然气（LNG）车辆燃料加注系统规范
+［15］JTS 165—5—2009 液化天然气码头设计规范
+［16］ NB／T 1001—2011 液化天然气（LNG）汽车加气站技术规范［17］ QC／T 755—2006 液化天然气（LNG）汽车专用装置技术条件［18］ SY／T 6711—2008 液化天然气接收站安全技术规程
+[19] API.620:2009 Design and construction of large,welded,low-pressure storage tanks [20] EN 1474-1:2008 Instalation and equipment for liquefied natural gas-Design and testing of marine transfer systems-Part 1: Design and testing of transfer arms
+[21] EN 14620.1:2006
+Design and manufacture of site built,vertical,cylindrical,flat- bottomed steel tanks for the storage of refrigerated,liquefied gases with operating temperatures between 0℃ and-165℃-Part 1:General
+12 
+
+SY/T 6936-2013 中文索引
+术语名称
+条号 页码
+术语名称
+条号 页码 A
+安全停运地震
+2.2.77 8
+B BOG总管
+2.2.39 5
+薄膜液舱型液化天然气运输船
+2.2.26
+4 板翅式换热器
+2.2.18 3
+保冷循环
+2.2.43
+5 半地下储罐
+2.2.63 7
+标准液化天然气运输船
+2.4.10
+10 包容
+2.1.3 1
+丙烷预冷混合制冷剂天然气液薄膜罐
+2.2.66 7
+化工艺流程
+2.2.11
+3 C
+产品蒸发气隔离层
+2.2.71 8
+船岸匹配研究
+2.4.13
+11 池火
+2.1.7 1
+船舶货物管汇
+2.2.30
+4 船岸传输设施
+2.2.29 4
+船上贸易交接系统
+2.4.14
+11 船岸界面
+2.2.28 4
+次容器
+2.2.58
+7 D
+单容罐
+2.2.59 7
+低温液力透平
+2.2.21
+4 单循环混合制冷剂天然气液化
+地下储罐
+2.2.62
+7 工艺流程
+2.2.10 3
+吊顶
+2.2.73
+8 氮气膨胀天然气液化工艺流程
+2.2.13 3
+冻土地下储罐
+2.2.64
+7 低温软管
+2.2.32 4
+F 翻滚
+2.1.8 1
+浮式接收储存气化装置
+2.2.3
+2 返回气
+2.2.41 5
+浮式液化天然气生产储卸装置
+2.2.2
+2 沸腾液体膨胀蒸气爆炸
+2.1.9 2
+G 隔气层
+2.2.70 7
+H 环形空间
+2.2.68 7
+混合制冷剂天然气液化工艺流程
+2.2.9 3 J
+基本负荷型天然气液化装置
+2.2.6 2
+集液池
+2.2.46
+6 级联式天然气液化工艺流程
+2.2.15 3
+加气岛
+2.3.13 9 13 
+
+SY/T 6936-2013 术语名称
+条号 页码
+术语名称
+条号 页码 J
+加气枪
+2.3.14 9
+紧急解脱系统
+2.2.36
+5 加油加气站
+2.3.11 9
+浸没燃烧式气化器
+2.2.52
+6 价格回顾
+2.4.6 10
+聚合物隔气层
+2.2.72
+8 焦耳一汤姆逊阀
+2.2.20 4
+绝热空间
+2.2.69
+7 K
+开架式气化器
+2.2.53 6
+快速连接／解脱装置
+2.2.35
+5 空气热源式气化器
+2.2.55 6
+L L-CNG加气站
+2.3.8 9
+立式浸没筒袋泵
+2.2.49
+6 LNG，L-CNG两用加气站
+2.3.9 9
+立式外装泵
+2.2.50
+6 拦蓄区
+2.2.45 5
+两相低温液力透平
+2.2.22
+4 冷箱
+2.2.19 3
+M 码头液化天然气收集罐
+2.2.42 5
+卖方设施
+2.4.9 10 买方设施
+2.4.8 10
+美国亨利中心天然气价格
+2.4.18
+11 Q
+Q—FLEX型液化天然气运输船
+2.4.11 10
+橇装加气站
+2.3.10
+9 Q—MAX型液化天然气运输船
+2.4.12 10
+球形液舱型液化天然气运输船
+2.2.25
+4 气化器
+2.2.51 6
+全容罐
+2.2.61
+7 气体云膨胀和扩散
+2.1.6 1
+R 绕管式换热器
+2.2.17 3
+热校正系数
+2.4.15
+11 热防护系统
+2.2.75 8
+日本一揽子原油进口平均价格
+2.4.16
+11 热角保护
+2.2.74 8
+S 伸缩臂
+2.2.33 4
+双循环混合制冷剂天然气液化双容罐
+2.2.60 7
+工艺流程
+2.2.12
+3 T
+天然气膨胀液化工艺流程
+2.2.14 3
+天然气液化厂
+2.2.1
+2 天然气销售合同
+2.4.4 10
+调峰型天然气液化装置
+2.2.7 2 14
+
+
+
+SY/T 6936--2013 术语名称
+条号 页码
+术语名称
+条号 页码 W
+围堰
+2.2.67 7
+位置监测系统
+2.2.37
+5 X
+现货贸易确认函
+2.4.2 10
+现货贸易主合同
+2.4.1
+9 Y
+液化天然气
+2.1.1 1
+液化天然气项目开发协议
+2.4.5 10 液化天然气槽车
+2.3.1 8
+液化天然气卸料总管
+2.2.40
+5 液化天然气槽船
+2.3.3 8
+液化天然气溢出
+2.1.4
+1 液化天然气穿梭式运输气化船
+2.2.27 4
+液化天然气运输船
+2.2.24
+4 液化天然气返装作业
+2.2.47 6
+液化天然气装车橇
+2.3.2
+8 液化天然气购销合同
+2.4.3 10
+液化天然气组成
+2.1.2
+1 液化天然气罐内泵
+2.2.48 6
+液位、温度、密度监测仪
+2.2.78
+8 液化天然气加气机
+2.3.12 9
+英国国家平衡点
+2.4.17
+11 液化天然气加气站
+2.3.7 9
+预冷
+2.2.44
+5 液化天然气接收站
+2.2.38 5
+预应力混凝土储罐
+2.2.65
+7 液化天然气快速相变
+2.1.5 1
+原料气脱酸装置
+2.2.5
+2 液化天然气冷能利用
+2.3.15 9
+原料气预处理
+2.2.4
+2 液化天然气码头
+2.2.23 4
+运行基准地震
+2.2.76
+8 液化天然气卫星站
+2.3.4 9
+Z 再冷凝器
+2.2.56 6
+主低温换热器
+2.2.16
+3 照付不议
+2.4.7 10
+主容器
+2.2.57
+7 真空绝热罐
+2.3.5 9
+装卸臂
+2.2.31
+4 蒸发气
+2.1.10 2
+装卸臂包络范围
+2.2.34
+5 制冷循环
+2.2.8 2
+子母罐
+2.3.6
+9 中间介质气化器
+2.2.54 6
+15 
+
+SY/T 6936-2013
+英文索引 术语名称
+条号 页码
+术语名称
+条号 页码 A
+acid gas removal unit(AGRU)
+2.2.5
+2
+annular space
+2.2.68
+7 ambicnt air-based heating
+vaporizers(AAV)
+2.2.55
+6
+B base-load LNG facility
+2.2.6
+2
+boil-off gas(BOG)
+2.1.10
+2 BOG header
+2.2.39
+5
+buyer's facility
+2.4.8
+10 boiling liquid expanding vapor
+explosion(BLEVE)
+2.1.9
+2
+C cascade cycle liquefaction process
+2.2.15
+3
+cryogenic hose
+2.2.32
+4 cold box
+2.2.19
+3
+cryogenic liquid expander
+2.2.21
+4 composite tank
+2.3.6
+9
+custody transfer system on confirmation memorandum(CM)
+2.4.2
+10
+board ship
+2.4.14
+11 containment
+2.1.3
+1
+D double containment tank
+2.2.60
+7
+dual-mixed refrigerant cycle
+liquefaction process(DMRC) 2.2.12
+3 E
+embankment/bund wall
+2.2.67
+7
+expansion and dispersion of gas emergency release system (ERS)
+2.2.36 5
+clouds
+2.1.6
+1 F
+feed gas pretreatment
+2.2.4
+2
+floating storage and re-gasification filling gun
+2.3.14
+9
+unit(FSRU)
+2.2.3
+2 filling island
+2.3.13
+9
+frozen ground container
+2.2.64
+7 floating LNG production,storage and
+full containment tank
+2.2.61
+7 offloading unit (LNG FPSO/FLNG) 2.2.2 2
+G gas sale agreement(GSA)
+2.4.4 10 16
+
+
+
+SY/T 6936-2013
+术语名称
+条号 页码
+术语名称
+条号 页码 H
+Henry hub price(HH)
+2.4.18 11
+1 impounding area
+2.2.45
+5
+insulation space
+2.2.69
+7 impounding basin
+2.2.46
+6
+intermediate fluid vaporizer(IFV)
+2.2.54
+6 J
+Japan crude cocktail (JCC)
+2.4.16
+11
+Joule-Thomson valve (J-T valve) 2.2.20 4 jetty LNG drain drum
+2.2.42
+5
+K keep cooling recirculation
+2.2.43
+5
+L L-CNG filling station
+2.3.8
+LNG project development agreement 6
+liquefied natural gas (LNG)
+2.1.1
+1
+(LNG PDA)
+2.4.5
+10 LNG and L-CNG filling station
+2.3.9
+9
+LNG sale & purchase agreement LNG arm envelope
+2.2.34
+5
+(LNG SPA)
+2.4.3
+10 LNG carrier/LNG tanker/LNG
+LNG satellite station
+2.3.4
+9 vessel
+2.2.24
+4
+LNG ship navigated in river or LNG composition
+2.1.2
+1
+nearshore sea
+2.3.3
+8 LNG cryogenic energy utilization
+2.3.15
+LNG ship reloading
+2.2.47 6
+9 LNG dispenser
+2.3.12
+9
+LNG terminal/LNG receiving terminal/LNG LNG filling station
+2.3.7
+9
+regasification terminal
+2.2.38
+5 LNG in-tank pump
+2.2.48
+6
+LNG truck
+2.3.1
+8 LNG jetty
+2.2.23
+4
+LNG truck loading package
+2.3.2
+8 LNG marine loading and unloading
+LNG unloading header
+2.2.40
+5 arms
+2.2.31
+4
+LTD monitoring system
+2.2.78
+8 M
+main cryogenic heat exchanger
+membrane-type LNG carrier
+2.2.26
+4 (MCHE)
+2.2.16
+3
+mixed-refrigerant cycleliquefaction master sale & purchase agreement for spot
+process(MRC)
+2.2.9
+3 6
+trading (MSPA for spot trading) 2.4.1
+moss-type LNG carrier
+2.2.25
+4 membrane tank
+2.2.66
+7
+N national balance point(NBP)
+2.4.17
+11
+natural gas expander cycle liquefaction process
+2.2.14
+3 17 
+
+SY/T 6936-2013
+术语名称
+条号 页码
+术语名称
+条号 页码 N
+natural gas liquefaction plant
+2.2.1
+2
+nitrogen expander cycle liquefaction process
+2.2.13 3 0
+oil and gas filling station
+2.3.11
+9
+operating basis earthquake (OBE)
+2.2.76
+8 open rack vaporizer(ORV)
+2.2.53
+6
+P pantograph
+2.2.33
+4
+precool
+2.2.44
+5 peak-shaving LNG facility
+2.2.7
+2
+prestressed concrete container
+2.2.65
+7 plate-fin heat exchanger
+price review
+2.4.6
+10 (PFHE)
+2.2.18
+3
+primary container
+2.2.57
+7 polymeric vapour barrier
+2.2.72
+8
+product vapour barrier
+2.2.71
+8 pool fires
+2.1.7
+1
+propane pre-cooled mixed refrigerant cycle position monitoring system(PMS)2.2.37
+5
+liquefaction process(C,/MRC)
+2.2.11
+3 0
+Q-FLEX LNG vessel
+2.4.11
+10
+quick connect/disconnect couplers Q-MAX LNG vessel
+2.4.12
+10
+(QCDC)
+2.2.35
+5 R
+rapid-phase-transition of LNG
+refrigeration cycle
+2.2.8
+2 (RPT)
+2.1.5
+1
+roll-over
+2.1.8
+1 recondenser
+2.2.56
+6
+S safe shutdown earthquake (SSE)
+2.2.77
+8
+single containment tank
+2.2.59
+7 secondary container
+2.2.58
+7
+single mixed-refrigerant cycle seller's facility
+2.4.9
+10
+liquefaction process (SMRC)
+2.2.10
+3
+6 semi-underground tank
+2.2.63
+7
+skid-mounted LNG filling station
+2.3.10 ship return vapour
+2.2.41
+5
+spillage of LNG
+2.1.4
+1 ship shore compatibility study
+spiral/coil-wound heat exchanger (SSCS)
+2.4.13
+11
+(SWHE/CWHE)
+2.2.17
+3 ship's cargo manifold
+2.2.30
+4
+standard LNG vessel
+2.4.10
+10 ship-shore interface
+2.2.28
+4
+submerged combustion vaporizer ship-shore transfer facilities
+2.2.29
+4
+(SCV)
+2.2.52
+6 shuttle and regasification vessel
+suspended deck
+2.2.73
+8 (SRV)
+2.2.27
+4 18
+
+
+
+SY/T 6936-2013
+术语名称
+条号 页码
+术语名称
+条号 页码 T
+take or pay(TOP)
+2.4.7
+10
+thermal protection system(TPS)
+2.2.75
+8 thermal corner protection(TCP)
+2.2.74
+8
+two-phase cryogenic liquid thermal correction factor
+2.4.15
+11
+expander
+2.2.22
+4 U
+underground tank
+2.2.62
+7
+V vacuum thermal insulation tank
+2.3.5
+vertical charging pump
+2.2.50
+6 6
+vaporizer
+2.2.51
+6
+vertical submerged barrel pump
+2.2.49
+6 vapour barrier
+2.2.70
+7
+19 
+
+中华人民共和国
+石油天然气行业标准 液化天然气词汇 SY/T 6936-2013
+石油工业出版社出版
+（北京安定门外安华里二区一号楼）
+北京中石油彩色印刷有限责任公司排版印刷
+新华书店北京发行所发行
+880x1230毫米16开本1.5印张43千字 印1—6002014年2月北京第1版 2014年2月北京第1次印刷
+书号：155021·7117 定价：18.00元
+版权专有 不得翻印
+SY/T 6936-2013 
